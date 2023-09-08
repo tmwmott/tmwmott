@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😎 Accomplishments:
+   
+   [VAX 11/780)](https://en.wikipedia.org/wiki/VAX-11);
+   [Aurora](https://www.ricomputermuseum.org/collections-gallery/equipment/dec-vax-6000410);
+   [Calypso (aka VAX 6000)](https://www.ricomputermuseum.org/collections-gallery/equipment/dec-vax-6000410);
+   [Cirrus (aka VAXft)](https://en.wikipedia.org/wiki/DEC_7000_AXP_and_DEC_10000_AXP), (https://www.computerhistory.org/collections/catalog/102795695),
+   [dec digital equipment corporation "vax cirrus"](https://archive.org/details/computerworld246unse);
+   [Ruby (aka DEC 7000 AXP)](https://en.wikipedia.org/wiki/DEC_Alpha);
+   
