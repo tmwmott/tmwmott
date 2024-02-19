@@ -1,11 +1,15 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ... <br>
-... python, vscode, github, bash, emacs, <br>
-... yFinance and Monte Carlo simulation techniques.
+... Python through project kits from inventr.io and adafruit <br>
+... yFinance and Monte Carlo simulation techniques with ChatGPT.<br>
+... github, bash, emacs, vscode.
 
 - 🔭 I’m currently working on ... <br>
-... re-writing lost code. I had two piece done.<br>
-... visualizations of Monte Carlo simulations, in relation to historical data.
+... [Adventure Kit: 30 Days Lost in Space](https://inventr.io/courses_list)
+with my 10yr old Grandson. <br>
+... [IoT](https://learn.adafruit.com/) with [adafruit](https://github.com/adafruit) on github. <br>
+... Visualizations of Monte Carlo simulations, in relation to historical data. <br>
+... Re-writing lost code. I had two piece for Monte Carlo done. Won't happen again because I'm here<br>
 
 - 👯 I’m looking to collaborate on ... <br>
 ... I'll communicate and manage that through GitHub features
