@@ -25,7 +25,18 @@ with my 10yr old Grandson. <br>
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: TBD
 
+- 😎 Accomplishments: <br>
+... [Aurora (microVAX)](https://www.ricomputermuseum.org/collections-gallery/equipment/dec-vax-6000410); <br>
+... [Calypso (aka VAX 6000)](https://www.ricomputermuseum.org/collections-gallery/equipment/dec-vax-6000410); <br>
+... [Cirrus (aka VAXft)](https://en.wikipedia.org/wiki/VAXft) <br>
+... [Ruby (aka DEC 7000 AXP)](https://en.wikipedia.org/wiki/DEC_Alpha); <br>
+... [Embedded Coder for automotive](https://www.mathworks.com/solutions/automotive.html?s_tid=srchtitle_site_search_2_automotive)
+
 <!--
+... [VAX 11/780)](https://en.wikipedia.org/wiki/VAX-11); <br>
+... [Cirrus (VAXft)dec digital equipment corporation "vax cirrus"](https://archive.org/details/computerworld246unse); <br>
+https://en.wikipedia.org/wiki/DEC_7000_AXP_and_DEC_10000_AXP), (https://www.computerhistory.org/collections/catalog/102795695),  <br>
+
 **tmwmott/tmwmott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [GitHub wiki syntax and formating]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
@@ -75,12 +86,3 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 
 -->
-- 😎 Accomplishments:
-   
-   [VAX 11/780)](https://en.wikipedia.org/wiki/VAX-11);
-   [Aurora](https://www.ricomputermuseum.org/collections-gallery/equipment/dec-vax-6000410);
-   [Calypso (aka VAX 6000)](https://www.ricomputermuseum.org/collections-gallery/equipment/dec-vax-6000410);
-   [Cirrus (aka VAXft)](https://en.wikipedia.org/wiki/DEC_7000_AXP_and_DEC_10000_AXP), (https://www.computerhistory.org/collections/catalog/102795695),
-   [dec digital equipment corporation "vax cirrus"](https://archive.org/details/computerworld246unse);
-   [Ruby (aka DEC 7000 AXP)](https://en.wikipedia.org/wiki/DEC_Alpha);
-   
